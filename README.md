@@ -1,0 +1,2 @@
+# LinearSearchAlgo
+ learn
